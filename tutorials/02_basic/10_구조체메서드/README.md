@@ -1,4 +1,8 @@
-﻿# 10. 구조체와 메서드
+﻿<!-- NAV_TOP_START -->
+[Previous](../09_맵/README.md) | [Index](../../00-index.md) | [Next](../11_인터페이스/README.md)
+<!-- NAV_TOP_END -->
+
+# 10. 구조체와 메서드
 
 ## 이전 챕터 점검 (01~09)
 - [ ] 값/포인터, slice/map 규칙을 코드로 설명 가능하다.
@@ -43,3 +47,8 @@ func main() {
 ## 완료 기준
 - [ ] 리시버 선택 근거를 설명할 수 있다.
 - [ ] JSON 태그를 올바르게 적용했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../09_맵/README.md) | [Index](../../00-index.md) | [Next](../11_인터페이스/README.md)
+<!-- NAV_BOTTOM_END -->
+

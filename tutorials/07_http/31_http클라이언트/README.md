@@ -1,4 +1,8 @@
-﻿# 31. HTTP 클라이언트
+﻿<!-- NAV_TOP_START -->
+[Previous](../30_http서버/README.md) | [Index](../../00-index.md) | [Next](../32_http테스트/README.md)
+<!-- NAV_TOP_END -->
+
+# 31. HTTP 클라이언트
 
 ## 이전 챕터 점검 (01~30)
 - [ ] 30장의 서버 핸들러를 직접 호출해봤다.
@@ -50,3 +54,8 @@ func main() {}
 - [ ] timeout과 retry 조건을 분리했다.
 - [ ] 실패 시 마지막 에러를 반환한다.
 - [ ] 멱등성 기준을 notes.md에 적었다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../30_http서버/README.md) | [Index](../../00-index.md) | [Next](../32_http테스트/README.md)
+<!-- NAV_BOTTOM_END -->
+

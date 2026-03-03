@@ -1,4 +1,8 @@
-﻿# 04. 타입과 변환
+﻿<!-- NAV_TOP_START -->
+[Previous](../../01_start/03_포맷문서/README.md) | [Index](../../00-index.md) | [Next](strconv.md)
+<!-- NAV_TOP_END -->
+
+# 04. 타입과 변환
 
 ## 이전 챕터 점검 (01~03)
 - [ ] 실행/빌드/테스트/포맷 흐름이 익숙하다.
@@ -39,3 +43,8 @@ func main() {
 ## 완료 기준
 - [ ] 변환 실패를 error로 처리한다.
 - [ ] 성공/실패 테스트를 모두 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../01_start/03_포맷문서/README.md) | [Index](../../00-index.md) | [Next](strconv.md)
+<!-- NAV_BOTTOM_END -->
+

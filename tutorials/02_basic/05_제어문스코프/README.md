@@ -1,4 +1,8 @@
-﻿# 05. 제어문과 스코프
+﻿<!-- NAV_TOP_START -->
+[Previous](../04_타입변환/strconv.md) | [Index](../../00-index.md) | [Next](../06_함수기초/README.md)
+<!-- NAV_TOP_END -->
+
+# 05. 제어문과 스코프
 
 ## 이전 챕터 점검 (01~04)
 - [ ] 타입 변환과 에러 처리 기본이 된다.
@@ -43,3 +47,8 @@ func main() {
 ## 완료 기준
 - [ ] shadowing 위험을 설명할 수 있다.
 - [ ] 제어문 테스트를 2개 이상 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../04_타입변환/strconv.md) | [Index](../../00-index.md) | [Next](../06_함수기초/README.md)
+<!-- NAV_BOTTOM_END -->
+

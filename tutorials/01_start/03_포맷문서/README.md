@@ -1,4 +1,8 @@
-﻿# 03. 포맷과 문서
+﻿<!-- NAV_TOP_START -->
+[Previous](../02_go도구/README.md) | [Index](../../00-index.md) | [Next](../../02_basic/04_타입변환/README.md)
+<!-- NAV_TOP_END -->
+
+# 03. 포맷과 문서
 
 ## 이전 챕터 점검 (01~02)
 - [ ] 모듈 생성과 테스트 실행을 완료했다.
@@ -35,3 +39,8 @@ func Max(a, b int) int {
 ## 완료 기준
 - [ ] 저장 시 자동 포맷 설정을 완료했다.
 - [ ] 공개 함수 주석 3개 이상 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../02_go도구/README.md) | [Index](../../00-index.md) | [Next](../../02_basic/04_타입변환/README.md)
+<!-- NAV_BOTTOM_END -->
+

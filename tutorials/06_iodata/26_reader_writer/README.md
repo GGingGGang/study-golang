@@ -1,4 +1,8 @@
-﻿# 26. Reader Writer
+﻿<!-- NAV_TOP_START -->
+[Previous](../../05_concurrency/25_동시성패턴/README.md) | [Index](../../00-index.md) | [Next](../27_파일경로/README.md)
+<!-- NAV_TOP_END -->
+
+# 26. Reader Writer
 
 ## 이전 챕터 점검 (01~25)
 - [ ] worker/pipeline에서 채널 흐름을 설명할 수 있다.
@@ -44,3 +48,8 @@ func main() {
 - [ ] Reader/Writer 시그니처를 사용했다.
 - [ ] 에러를 호출자에게 전파했다.
 - [ ] 버퍼 기반 테스트를 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../05_concurrency/25_동시성패턴/README.md) | [Index](../../00-index.md) | [Next](../27_파일경로/README.md)
+<!-- NAV_BOTTOM_END -->
+

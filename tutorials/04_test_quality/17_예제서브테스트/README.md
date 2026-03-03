@@ -1,4 +1,8 @@
-﻿# 17. 예제와 서브테스트
+﻿<!-- NAV_TOP_START -->
+[Previous](../16_단위테스트/README.md) | [Index](../../00-index.md) | [Next](../18_벤치마크/README.md)
+<!-- NAV_TOP_END -->
+
+# 17. 예제와 서브테스트
 
 ## 이전 챕터 점검 (01~16)
 - [ ] 16장의 테이블 테스트를 재사용 가능 형태로 정리했다.
@@ -53,3 +57,8 @@ func ExamplePrefix() {
 - [ ] Example 출력이 통과한다.
 - [ ] subtest 이름이 시나리오를 설명한다.
 - [ ] 중복 setup을 줄였다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../16_단위테스트/README.md) | [Index](../../00-index.md) | [Next](../18_벤치마크/README.md)
+<!-- NAV_BOTTOM_END -->
+

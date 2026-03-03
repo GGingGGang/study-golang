@@ -1,4 +1,8 @@
-﻿# 12. 에러 처리
+﻿<!-- NAV_TOP_START -->
+[Previous](../11_인터페이스/README.md) | [Index](../../00-index.md) | [Next](../../03_module_package_layout/13_모듈관리/README.md)
+<!-- NAV_TOP_END -->
+
+# 12. 에러 처리
 
 ## 이전 챕터 점검 (01~11)
 - [ ] 작은 인터페이스 + 테스트 더블 패턴을 적용했다.
@@ -67,3 +71,8 @@ func TestLoadConfig_NotFound(t *testing.T) {
 ## 완료 기준
 - [ ] 에러 래핑과 분류를 모두 사용했다.
 - [ ] 01~12 누적 규칙(테스트, 포맷, notes.md)을 지켰다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../11_인터페이스/README.md) | [Index](../../00-index.md) | [Next](../../03_module_package_layout/13_모듈관리/README.md)
+<!-- NAV_BOTTOM_END -->
+

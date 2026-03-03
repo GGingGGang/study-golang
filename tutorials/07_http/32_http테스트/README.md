@@ -1,4 +1,8 @@
-﻿# 32. HTTP 테스트
+﻿<!-- NAV_TOP_START -->
+[Previous](../31_http클라이언트/README.md) | [Index](../../00-index.md) | [Next](../33_로그설정/README.md)
+<!-- NAV_TOP_END -->
+
+# 32. HTTP 테스트
 
 ## 이전 챕터 점검 (01~31)
 - [ ] 31장에서 클라이언트 timeout/retry를 구현했다.
@@ -57,3 +61,8 @@ func TestHealth(t *testing.T) {
 - [ ] 상태코드와 바디를 함께 검증했다.
 - [ ] 정상/실패 케이스를 분리했다.
 - [ ] 테스트 이름으로 시나리오가 드러난다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../31_http클라이언트/README.md) | [Index](../../00-index.md) | [Next](../33_로그설정/README.md)
+<!-- NAV_BOTTOM_END -->
+

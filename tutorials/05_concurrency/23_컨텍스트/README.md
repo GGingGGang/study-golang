@@ -1,4 +1,8 @@
-﻿# 23. 컨텍스트
+﻿<!-- NAV_TOP_START -->
+[Previous](../22_채널셀렉트/README.md) | [Index](../../00-index.md) | [Next](../24_sync동기화/README.md)
+<!-- NAV_TOP_END -->
+
+# 23. 컨텍스트
 
 ## 이전 챕터 점검 (01~22)
 - [ ] 22장에서 select + timeout 흐름을 구현했다.
@@ -47,3 +51,8 @@ func main() {
 - [ ] timeout/취소를 처리했다.
 - [ ] context를 첫 인자로 받는다.
 - [ ] 에러를 호출자까지 전파했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../22_채널셀렉트/README.md) | [Index](../../00-index.md) | [Next](../24_sync동기화/README.md)
+<!-- NAV_BOTTOM_END -->
+

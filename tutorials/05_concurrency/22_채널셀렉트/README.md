@@ -1,4 +1,8 @@
-﻿# 22. 채널과 셀렉트
+﻿<!-- NAV_TOP_START -->
+[Previous](../21_고루틴/README.md) | [Index](../../00-index.md) | [Next](../23_컨텍스트/README.md)
+<!-- NAV_TOP_END -->
+
+# 22. 채널과 셀렉트
 
 ## 이전 챕터 점검 (01~21)
 - [ ] 21장에서 고루틴 종료 패턴을 직접 적용했다.
@@ -52,3 +56,8 @@ func main() {
 - [ ] close 주체를 명확히 정했다.
 - [ ] timeout 경로를 다뤘다.
 - [ ] panic 없이 종료된다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../21_고루틴/README.md) | [Index](../../00-index.md) | [Next](../23_컨텍스트/README.md)
+<!-- NAV_BOTTOM_END -->
+

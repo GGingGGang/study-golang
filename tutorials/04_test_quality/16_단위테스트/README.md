@@ -1,4 +1,8 @@
-﻿# 16. 단위 테스트
+﻿<!-- NAV_TOP_START -->
+[Previous](../../03_module_package_layout/15_프로젝트구조/README.md) | [Index](../../00-index.md) | [Next](../17_예제서브테스트/README.md)
+<!-- NAV_TOP_END -->
+
+# 16. 단위 테스트
 
 ## 이전 챕터 점검 (01~15)
 - [ ] 15장 구조에서 `go test ./...`가 통과한다.
@@ -61,3 +65,8 @@ func TestClamp(t *testing.T) {
 - [ ] 테이블 테스트를 작성했다.
 - [ ] 경계값을 누락하지 않았다.
 - [ ] 테스트 가독성이 유지된다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../03_module_package_layout/15_프로젝트구조/README.md) | [Index](../../00-index.md) | [Next](../17_예제서브테스트/README.md)
+<!-- NAV_BOTTOM_END -->
+

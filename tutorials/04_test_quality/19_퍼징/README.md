@@ -1,4 +1,8 @@
-﻿# 19. 퍼징
+﻿<!-- NAV_TOP_START -->
+[Previous](../18_벤치마크/README.md) | [Index](../../00-index.md) | [Next](../20_정적분석/README.md)
+<!-- NAV_TOP_END -->
+
+# 19. 퍼징
 
 ## 이전 챕터 점검 (01~18)
 - [ ] 벤치마크 실행 및 해석 경험이 있다.
@@ -46,3 +50,8 @@ func FuzzParseKV(f *testing.F) {
 - [ ] fuzz 실행 로그를 남겼다.
 - [ ] 재현 케이스를 regression test로 고정했다.
 - [ ] panic 없이 동작한다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../18_벤치마크/README.md) | [Index](../../00-index.md) | [Next](../20_정적분석/README.md)
+<!-- NAV_BOTTOM_END -->
+

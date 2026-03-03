@@ -1,4 +1,8 @@
-﻿# 06. 함수 기초
+﻿<!-- NAV_TOP_START -->
+[Previous](../05_제어문스코프/README.md) | [Index](../../00-index.md) | [Next](../07_포인터값/README.md)
+<!-- NAV_TOP_END -->
+
+# 06. 함수 기초
 
 ## 이전 챕터 점검 (01~05)
 - [ ] 제어문과 에러 반환 패턴을 사용할 수 있다.
@@ -50,3 +54,8 @@ func main() {
 ## 완료 기준
 - [ ] defer 누락 없는 자원 정리 코드를 작성했다.
 - [ ] 클로저 캡처 동작을 설명할 수 있다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../05_제어문스코프/README.md) | [Index](../../00-index.md) | [Next](../07_포인터값/README.md)
+<!-- NAV_BOTTOM_END -->
+

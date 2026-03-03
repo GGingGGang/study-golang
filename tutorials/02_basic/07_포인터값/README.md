@@ -1,4 +1,8 @@
-﻿# 07. 포인터와 값
+﻿<!-- NAV_TOP_START -->
+[Previous](../06_함수기초/README.md) | [Index](../../00-index.md) | [Next](../08_슬라이스/README.md)
+<!-- NAV_TOP_END -->
+
+# 07. 포인터와 값
 
 ## 이전 챕터 점검 (01~06)
 - [ ] 함수 인자와 반환 구조를 명확히 설명할 수 있다.
@@ -40,3 +44,8 @@ func main() {
 ## 완료 기준
 - [ ] 포인터 사용 기준을 문장으로 정리했다.
 - [ ] 값/포인터 테스트를 모두 통과했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../06_함수기초/README.md) | [Index](../../00-index.md) | [Next](../08_슬라이스/README.md)
+<!-- NAV_BOTTOM_END -->
+

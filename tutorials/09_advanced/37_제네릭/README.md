@@ -1,4 +1,8 @@
-﻿# 37. 제네릭
+﻿<!-- NAV_TOP_START -->
+[Previous](../../08_dbperf/36_pprof/README.md) | [Index](../../00-index.md) | [Next](../38_리플렉션/README.md)
+<!-- NAV_TOP_END -->
+
+# 37. 제네릭
 
 ## 이전 챕터 점검 (01~36)
 - [ ] 성능 개선은 측정으로 검증했다.
@@ -38,3 +42,8 @@ func main() {
 - [ ] 제네릭 도입 전/후 중복량을 비교했다.
 - [ ] constraint를 과도하게 늘리지 않았다.
 - [ ] 읽기 쉬운 시그니처를 유지했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../08_dbperf/36_pprof/README.md) | [Index](../../00-index.md) | [Next](../38_리플렉션/README.md)
+<!-- NAV_BOTTOM_END -->
+

@@ -1,4 +1,8 @@
-﻿# 30. HTTP 서버
+﻿<!-- NAV_TOP_START -->
+[Previous](../../06_iodata/29_time타이머/README.md) | [Index](../../00-index.md) | [Next](../31_http클라이언트/README.md)
+<!-- NAV_TOP_END -->
+
+# 30. HTTP 서버
 
 ## 이전 챕터 점검 (01~29)
 - [ ] 29장 ticker 종료 패턴을 이해하고 있다.
@@ -55,3 +59,8 @@ func main() {
 - [ ] 핸들러와 미들웨어 역할을 설명할 수 있다.
 - [ ] 타임아웃 설정을 포함했다.
 - [ ] 로컬에서 요청 응답을 확인했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../06_iodata/29_time타이머/README.md) | [Index](../../00-index.md) | [Next](../31_http클라이언트/README.md)
+<!-- NAV_BOTTOM_END -->
+

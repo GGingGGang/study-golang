@@ -1,4 +1,8 @@
-﻿# 01. 환경 설정
+﻿<!-- NAV_TOP_START -->
+[Previous](../../00-index.md) | [Index](../../00-index.md) | [Next](../02_go도구/README.md)
+<!-- NAV_TOP_END -->
+
+# 01. 환경 설정
 
 ## 이전 챕터 점검
 - 시작 챕터이므로 없음.
@@ -34,3 +38,8 @@ func main() {
 ## 완료 기준
 - [ ] 환경값을 설명할 수 있다.
 - [ ] `go run`으로 코드가 실행된다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../00-index.md) | [Index](../../00-index.md) | [Next](../02_go도구/README.md)
+<!-- NAV_BOTTOM_END -->
+

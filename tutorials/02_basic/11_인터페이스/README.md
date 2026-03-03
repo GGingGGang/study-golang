@@ -1,4 +1,8 @@
-﻿# 11. 인터페이스
+﻿<!-- NAV_TOP_START -->
+[Previous](../10_구조체메서드/README.md) | [Index](../../00-index.md) | [Next](../12_에러처리/README.md)
+<!-- NAV_TOP_END -->
+
+# 11. 인터페이스
 
 ## 이전 챕터 점검 (01~10)
 - [ ] 구조체/메서드로 기본 도메인 모델을 만들 수 있다.
@@ -54,3 +58,8 @@ func TestSendWelcome(t *testing.T) {
 ## 완료 기준
 - [ ] 인터페이스를 필요한 위치(소비자 쪽)에 정의했다.
 - [ ] 테스트 더블로 동작을 검증했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../10_구조체메서드/README.md) | [Index](../../00-index.md) | [Next](../12_에러처리/README.md)
+<!-- NAV_BOTTOM_END -->
+

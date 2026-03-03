@@ -1,4 +1,8 @@
-﻿# 36. pprof
+﻿<!-- NAV_TOP_START -->
+[Previous](../35_트랜잭션풀/README.md) | [Index](../../00-index.md) | [Next](../../09_advanced/37_제네릭/README.md)
+<!-- NAV_TOP_END -->
+
+# 36. pprof
 
 ## 이전 챕터 점검 (01~35)
 - [ ] 35장의 트랜잭션 함수에 timeout context를 적용했다.
@@ -45,3 +49,8 @@ func main() {
 - [ ] profile 파일을 생성했다.
 - [ ] 병목 함수를 식별했다.
 - [ ] 개선 효과를 수치로 남겼다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../35_트랜잭션풀/README.md) | [Index](../../00-index.md) | [Next](../../09_advanced/37_제네릭/README.md)
+<!-- NAV_BOTTOM_END -->
+

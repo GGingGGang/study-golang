@@ -1,4 +1,8 @@
-﻿# 14. 패키지 분리
+﻿<!-- NAV_TOP_START -->
+[Previous](../13_모듈관리/README.md) | [Index](../../00-index.md) | [Next](../15_프로젝트구조/README.md)
+<!-- NAV_TOP_END -->
+
+# 14. 패키지 분리
 
 ## 이전 챕터 점검 (01~13)
 - [ ] 13장에서 만든 모듈에서 테스트가 통과한다.
@@ -42,3 +46,8 @@ func NonEmpty(s string) bool {
 - [ ] internal 사용 이유를 설명할 수 있다.
 - [ ] 패키지 순환 의존 없이 빌드된다.
 - [ ] 최소 1개 단위 테스트를 추가했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../13_모듈관리/README.md) | [Index](../../00-index.md) | [Next](../15_프로젝트구조/README.md)
+<!-- NAV_BOTTOM_END -->
+

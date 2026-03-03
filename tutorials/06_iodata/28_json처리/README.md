@@ -1,4 +1,8 @@
-﻿# 28. JSON 처리
+﻿<!-- NAV_TOP_START -->
+[Previous](../27_파일경로/README.md) | [Index](../../00-index.md) | [Next](../29_time타이머/README.md)
+<!-- NAV_TOP_END -->
+
+# 28. JSON 처리
 
 ## 이전 챕터 점검 (01~27)
 - [ ] 파일/경로 처리 코드가 정상 동작한다.
@@ -45,3 +49,8 @@ func main() {}
 - [ ] 디코딩 에러를 처리했다.
 - [ ] 검증 로직을 분리했다.
 - [ ] 정상/실패 테스트를 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../27_파일경로/README.md) | [Index](../../00-index.md) | [Next](../29_time타이머/README.md)
+<!-- NAV_BOTTOM_END -->
+

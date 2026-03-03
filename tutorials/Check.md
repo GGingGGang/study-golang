@@ -1,4 +1,8 @@
-﻿# 01-Start
+﻿<!-- NAV_TOP_START -->
+[Previous](09_advanced/39_스펙읽기/README.md) | [Index](00-index.md) | Next
+<!-- NAV_TOP_END -->
+
+# 01-Start
 ### 01-환경 설정
 ##### 점검
 - [ ] 이전챕터: 없음
@@ -398,3 +402,8 @@
 - [ ] 실수 1개와 수정 방법
 ##### 실습+완료기준
 - [ ] 규칙 3개 스펙 근거 정리. 완료기준: 코드와 근거 링크 매칭 완료.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](09_advanced/39_스펙읽기/README.md) | [Index](00-index.md) | Next
+<!-- NAV_BOTTOM_END -->
+

@@ -1,4 +1,8 @@
-﻿# 25. 동시성 패턴
+﻿<!-- NAV_TOP_START -->
+[Previous](../24_sync동기화/README.md) | [Index](../../00-index.md) | [Next](../../06_iodata/26_reader_writer/README.md)
+<!-- NAV_TOP_END -->
+
+# 25. 동시성 패턴
 
 ## 이전 챕터 점검 (01~24)
 - [ ] 24장에서 공유 상태 보호 코드를 작성했다.
@@ -49,3 +53,8 @@ func main() {
 - [ ] 작업 분배와 결과 수집이 동작한다.
 - [ ] 중단 시 누수가 없다.
 - [ ] 테스트로 종료를 검증했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../24_sync동기화/README.md) | [Index](../../00-index.md) | [Next](../../06_iodata/26_reader_writer/README.md)
+<!-- NAV_BOTTOM_END -->
+

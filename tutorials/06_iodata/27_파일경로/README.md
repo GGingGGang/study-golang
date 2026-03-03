@@ -1,4 +1,8 @@
-﻿# 27. 파일과 경로
+﻿<!-- NAV_TOP_START -->
+[Previous](../26_reader_writer/README.md) | [Index](../../00-index.md) | [Next](../28_json처리/README.md)
+<!-- NAV_TOP_END -->
+
+# 27. 파일과 경로
 
 ## 이전 챕터 점검 (01~26)
 - [ ] Reader/Writer 기반 테스트 가능한 코드를 작성했다.
@@ -51,3 +55,8 @@ func main() {
 - [ ] 경로 결합을 filepath로 처리했다.
 - [ ] 파일 에러를 적절히 반환했다.
 - [ ] 디렉토리/파일 구분을 처리했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../26_reader_writer/README.md) | [Index](../../00-index.md) | [Next](../28_json처리/README.md)
+<!-- NAV_BOTTOM_END -->
+

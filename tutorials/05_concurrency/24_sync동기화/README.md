@@ -1,4 +1,8 @@
-﻿# 24. sync 동기화
+﻿<!-- NAV_TOP_START -->
+[Previous](../23_컨텍스트/README.md) | [Index](../../00-index.md) | [Next](../25_동시성패턴/README.md)
+<!-- NAV_TOP_END -->
+
+# 24. sync 동기화
 
 ## 이전 챕터 점검 (01~23)
 - [ ] context 취소/전파 코드를 실행해봤다.
@@ -47,3 +51,8 @@ func main() {
 - [ ] race 가능 지점을 설명할 수 있다.
 - [ ] 동기화 후 결과가 안정적이다.
 - [ ] WaitGroup 누락 없이 종료한다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../23_컨텍스트/README.md) | [Index](../../00-index.md) | [Next](../25_동시성패턴/README.md)
+<!-- NAV_BOTTOM_END -->
+

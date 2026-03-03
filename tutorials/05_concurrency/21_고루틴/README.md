@@ -1,4 +1,8 @@
-﻿# 21. 고루틴
+﻿<!-- NAV_TOP_START -->
+[Previous](../../04_test_quality/20_정적분석/README.md) | [Index](../../00-index.md) | [Next](../22_채널셀렉트/README.md)
+<!-- NAV_TOP_END -->
+
+# 21. 고루틴
 
 ## 이전 챕터 점검 (01~20)
 - [ ] 20장까지의 테스트/벤치/vet 흐름을 한 번 실행했다.
@@ -53,3 +57,8 @@ func main() {
 - [ ] 종료 경로가 명확하다.
 - [ ] 고루틴이 남지 않는다.
 - [ ] 테스트 또는 로그로 종료를 확인했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../04_test_quality/20_정적분석/README.md) | [Index](../../00-index.md) | [Next](../22_채널셀렉트/README.md)
+<!-- NAV_BOTTOM_END -->
+

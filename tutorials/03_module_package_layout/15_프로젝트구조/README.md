@@ -1,4 +1,8 @@
-﻿# 15. 프로젝트 구조
+﻿<!-- NAV_TOP_START -->
+[Previous](../14_패키지분리/README.md) | [Index](../../00-index.md) | [Next](../../04_test_quality/16_단위테스트/README.md)
+<!-- NAV_TOP_END -->
+
+# 15. 프로젝트 구조
 
 ## 이전 챕터 점검 (01~14)
 - [ ] 14장 패키지 분리 구조에서 import cycle이 없다.
@@ -42,3 +46,8 @@ func TestSmoke(t *testing.T) {
 - [ ] 프로젝트 레이아웃 의도를 설명할 수 있다.
 - [ ] 빌드 성공 후 바이너리를 실행했다.
 - [ ] 스모크 테스트를 추가했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../14_패키지분리/README.md) | [Index](../../00-index.md) | [Next](../../04_test_quality/16_단위테스트/README.md)
+<!-- NAV_BOTTOM_END -->
+

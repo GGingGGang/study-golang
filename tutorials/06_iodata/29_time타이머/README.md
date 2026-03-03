@@ -1,4 +1,8 @@
-﻿# 29. time과 타이머
+﻿<!-- NAV_TOP_START -->
+[Previous](../28_json처리/README.md) | [Index](../../00-index.md) | [Next](../../07_http/30_http서버/README.md)
+<!-- NAV_TOP_END -->
+
+# 29. time과 타이머
 
 ## 이전 챕터 점검 (01~28)
 - [ ] JSON 파싱 + 검증 테스트를 통과시켰다.
@@ -44,3 +48,8 @@ func main() {
 - [ ] ticker stop을 누락하지 않았다.
 - [ ] 종료 조건이 명확하다.
 - [ ] 무한 루프 누수를 방지했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../28_json처리/README.md) | [Index](../../00-index.md) | [Next](../../07_http/30_http서버/README.md)
+<!-- NAV_BOTTOM_END -->
+

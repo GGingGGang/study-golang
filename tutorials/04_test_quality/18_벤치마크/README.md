@@ -1,4 +1,8 @@
-﻿# 18. 벤치마크
+﻿<!-- NAV_TOP_START -->
+[Previous](../17_예제서브테스트/README.md) | [Index](../../00-index.md) | [Next](../19_퍼징/README.md)
+<!-- NAV_TOP_END -->
+
+# 18. 벤치마크
 
 ## 이전 챕터 점검 (01~17)
 - [ ] 테스트 구조(단위/예제/서브테스트)를 구분해 작성했다.
@@ -55,3 +59,8 @@ func BenchmarkBuilder(b *testing.B) {
 - [ ] ns/op, B/op, allocs/op를 비교했다.
 - [ ] 성능 주장에 수치를 첨부했다.
 - [ ] 개선 전후 근거를 메모했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../17_예제서브테스트/README.md) | [Index](../../00-index.md) | [Next](../19_퍼징/README.md)
+<!-- NAV_BOTTOM_END -->
+

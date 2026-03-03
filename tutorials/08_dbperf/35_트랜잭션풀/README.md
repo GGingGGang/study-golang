@@ -1,4 +1,8 @@
-﻿# 35. 트랜잭션과 풀
+﻿<!-- NAV_TOP_START -->
+[Previous](../34_database_sql/README.md) | [Index](../../00-index.md) | [Next](../36_pprof/README.md)
+<!-- NAV_TOP_END -->
+
+# 35. 트랜잭션과 풀
 
 ## 이전 챕터 점검 (01~34)
 - [ ] 34장에서 기본 DB 연산 함수를 작성했다.
@@ -44,3 +48,8 @@ func Transfer(ctx context.Context, db *sql.DB, from, to int64, amount int64) err
 - [ ] 트랜잭션 경계가 명확하다.
 - [ ] 실패 시 롤백된다.
 - [ ] timeout context를 전달한다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../34_database_sql/README.md) | [Index](../../00-index.md) | [Next](../36_pprof/README.md)
+<!-- NAV_BOTTOM_END -->
+

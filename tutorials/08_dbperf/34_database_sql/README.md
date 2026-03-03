@@ -1,4 +1,8 @@
-﻿# 34. database sql
+﻿<!-- NAV_TOP_START -->
+[Previous](../../07_http/33_로그설정/README.md) | [Index](../../00-index.md) | [Next](../35_트랜잭션풀/README.md)
+<!-- NAV_TOP_END -->
+
+# 34. database sql
 
 ## 이전 챕터 점검 (01~33)
 - [ ] HTTP 계층에서 설정과 오류 흐름을 정리했다.
@@ -38,3 +42,8 @@ func InsertUser(db *sql.DB, name string) (int64, error) {
 - [ ] DB 에러를 상위로 전파한다.
 - [ ] 최소 CRUD 2개 이상 구현했다.
 - [ ] 테스트 데이터 정리를 수행했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../07_http/33_로그설정/README.md) | [Index](../../00-index.md) | [Next](../35_트랜잭션풀/README.md)
+<!-- NAV_BOTTOM_END -->
+

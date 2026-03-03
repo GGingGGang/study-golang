@@ -1,4 +1,8 @@
-﻿# Go 스터디 교재 인덱스
+﻿<!-- NAV_TOP_START -->
+Previous | [Index](00-index.md) | [Next](01_start/01_환경설정/README.md)
+<!-- NAV_TOP_END -->
+
+# Go 스터디 교재 인덱스
 
 기준 문서: Study/Read.md
 
@@ -61,9 +65,7 @@
 - [38. 리플렉션](09_advanced/38_리플렉션/README.md)
 - [39. 스펙 읽기](09_advanced/39_스펙읽기/README.md)
 
-
-
-
-
-
+<!-- NAV_BOTTOM_START -->
+Previous | [Index](00-index.md) | [Next](01_start/01_환경설정/README.md)
+<!-- NAV_BOTTOM_END -->
 

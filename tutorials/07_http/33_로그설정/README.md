@@ -1,4 +1,8 @@
-﻿# 33. 로그와 설정
+﻿<!-- NAV_TOP_START -->
+[Previous](../32_http테스트/README.md) | [Index](../../00-index.md) | [Next](../../08_dbperf/34_database_sql/README.md)
+<!-- NAV_TOP_END -->
+
+# 33. 로그와 설정
 
 ## 이전 챕터 점검 (01~32)
 - [ ] 32장에서 핸들러 테스트를 작성해 통과했다.
@@ -50,3 +54,8 @@ func main() {
 - [ ] 설정 우선순위를 코드/문서로 명시했다.
 - [ ] 실행 환경별 기본값을 분리했다.
 - [ ] 로그에 최소 필수 필드를 포함했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../32_http테스트/README.md) | [Index](../../00-index.md) | [Next](../../08_dbperf/34_database_sql/README.md)
+<!-- NAV_BOTTOM_END -->
+

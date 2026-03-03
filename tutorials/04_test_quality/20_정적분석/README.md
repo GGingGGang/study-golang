@@ -1,4 +1,8 @@
-﻿# 20. 정적 분석
+﻿<!-- NAV_TOP_START -->
+[Previous](../19_퍼징/README.md) | [Index](../../00-index.md) | [Next](../../05_concurrency/21_고루틴/README.md)
+<!-- NAV_TOP_END -->
+
+# 20. 정적 분석
 
 ## 이전 챕터 점검 (01~19)
 - [ ] 테스트, 벤치마크, 퍼징을 최소 1회 이상 실행했다.
@@ -41,3 +45,8 @@ func fixed() {
 - [ ] 경고 원인을 설명할 수 있다.
 - [ ] 수정 후 vet 경고가 사라졌다.
 - [ ] CI 체크 목록에 vet를 추가했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../19_퍼징/README.md) | [Index](../../00-index.md) | [Next](../../05_concurrency/21_고루틴/README.md)
+<!-- NAV_BOTTOM_END -->
+

@@ -1,4 +1,8 @@
-﻿# 02. Go 도구
+﻿<!-- NAV_TOP_START -->
+[Previous](../01_환경설정/README.md) | [Index](../../00-index.md) | [Next](../03_포맷문서/README.md)
+<!-- NAV_TOP_END -->
+
+# 02. Go 도구
 
 ## 이전 챕터 점검 (01)
 - [ ] `go version`, `go env`로 환경 확인을 끝냈다.
@@ -39,3 +43,8 @@ func TestAdd(t *testing.T) {
 ## 완료 기준
 - [ ] 명령별 목적을 설명할 수 있다.
 - [ ] 테스트 1개 이상을 통과시켰다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../01_환경설정/README.md) | [Index](../../00-index.md) | [Next](../03_포맷문서/README.md)
+<!-- NAV_BOTTOM_END -->
+

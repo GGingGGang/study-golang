@@ -1,4 +1,8 @@
-﻿# 39. 스펙 읽기
+﻿<!-- NAV_TOP_START -->
+[Previous](../38_리플렉션/README.md) | [Index](../../00-index.md) | [Next](../../Check.md)
+<!-- NAV_TOP_END -->
+
+# 39. 스펙 읽기
 
 ## 이전 챕터 점검 (01~38)
 - [ ] 제네릭/리플렉션 선택 기준을 notes.md에 정리했다.
@@ -38,3 +42,8 @@ func main() {
 - [ ] 코드 동작 근거를 스펙으로 설명했다.
 - [ ] 추측 대신 문서 근거를 남겼다.
 - [ ] 팀 공유 가능한 메모를 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../38_리플렉션/README.md) | [Index](../../00-index.md) | [Next](../../Check.md)
+<!-- NAV_BOTTOM_END -->
+

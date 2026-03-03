@@ -1,4 +1,8 @@
-﻿# 09. 맵
+﻿<!-- NAV_TOP_START -->
+[Previous](../08_슬라이스/README.md) | [Index](../../00-index.md) | [Next](../10_구조체메서드/README.md)
+<!-- NAV_TOP_END -->
+
+# 09. 맵
 
 ## 이전 챕터 점검 (01~08)
 - [ ] slice와 map의 참조적 성격을 이해한다.
@@ -37,3 +41,8 @@ func main() {
 ## 완료 기준
 - [ ] ok 패턴을 모든 조회에 적용했다.
 - [ ] 존재/미존재 케이스 테스트를 작성했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../08_슬라이스/README.md) | [Index](../../00-index.md) | [Next](../10_구조체메서드/README.md)
+<!-- NAV_BOTTOM_END -->
+

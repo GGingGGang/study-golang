@@ -1,4 +1,8 @@
-﻿# 38. 리플렉션
+﻿<!-- NAV_TOP_START -->
+[Previous](../37_제네릭/README.md) | [Index](../../00-index.md) | [Next](../39_스펙읽기/README.md)
+<!-- NAV_TOP_END -->
+
+# 38. 리플렉션
 
 ## 이전 챕터 점검 (01~37)
 - [ ] 37장에서 제네릭으로 중복 제거를 적용했다.
@@ -37,3 +41,8 @@ func main() {
 - [ ] 리플렉션 사용 이유를 명시했다.
 - [ ] 대체 가능한 경우(제네릭/인터페이스)를 검토했다.
 - [ ] 과도한 동적 분기를 피했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../37_제네릭/README.md) | [Index](../../00-index.md) | [Next](../39_스펙읽기/README.md)
+<!-- NAV_BOTTOM_END -->
+

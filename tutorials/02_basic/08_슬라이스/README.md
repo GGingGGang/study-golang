@@ -1,4 +1,8 @@
-﻿# 08. 슬라이스
+﻿<!-- NAV_TOP_START -->
+[Previous](../07_포인터값/README.md) | [Index](../../00-index.md) | [Next](../09_맵/README.md)
+<!-- NAV_TOP_END -->
+
+# 08. 슬라이스
 
 ## 이전 챕터 점검 (01~07)
 - [ ] 값/참조 특성과 함수 전달 규칙을 이해한다.
@@ -39,3 +43,8 @@ func main() {
 ## 완료 기준
 - [ ] cap 변화 시점을 설명할 수 있다.
 - [ ] copy를 써서 부작용을 제거했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../07_포인터값/README.md) | [Index](../../00-index.md) | [Next](../09_맵/README.md)
+<!-- NAV_BOTTOM_END -->
+

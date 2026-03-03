@@ -1,4 +1,8 @@
-﻿# 13. 모듈 관리
+﻿<!-- NAV_TOP_START -->
+[Previous](../../02_basic/12_에러처리/README.md) | [Index](../../00-index.md) | [Next](../14_패키지분리/README.md)
+<!-- NAV_TOP_END -->
+
+# 13. 모듈 관리
 
 ## 이전 챕터 점검 (01~12)
 - [ ] `02-Basic/12-에러-래핑-분류-전파/README.md`의 `errors.Is/As` 예제를 다시 읽었다.
@@ -43,3 +47,8 @@ func TestAdd(t *testing.T) {
 - [ ] `go.mod`와 `go.sum` 차이를 설명할 수 있다.
 - [ ] 테스트가 통과한다.
 - [ ] 정리 전후 `go.mod` 변화를 메모했다.
+
+<!-- NAV_BOTTOM_START -->
+[Previous](../../02_basic/12_에러처리/README.md) | [Index](../../00-index.md) | [Next](../14_패키지분리/README.md)
+<!-- NAV_BOTTOM_END -->
+
