@@ -1,5 +1,5 @@
 ﻿<!-- NAV_TOP_START -->
-[Previous](../06_함수기초/README.md) | [Index](../../00-index.md) | [Next](../08_슬라이스/README.md)
+[Previous](../06_함수기초/closure.md) | [Index](../../00-index.md) | [Next](../08_슬라이스/README.md)
 <!-- NAV_TOP_END -->
 
 # 07. 포인터와 값
@@ -46,6 +46,6 @@ func main() {
 - [ ] 값/포인터 테스트를 모두 통과했다.
 
 <!-- NAV_BOTTOM_START -->
-[Previous](../06_함수기초/README.md) | [Index](../../00-index.md) | [Next](../08_슬라이스/README.md)
+[Previous](../06_함수기초/closure.md) | [Index](../../00-index.md) | [Next](../08_슬라이스/README.md)
 <!-- NAV_BOTTOM_END -->
 

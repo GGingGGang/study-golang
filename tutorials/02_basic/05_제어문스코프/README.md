@@ -1,5 +1,5 @@
 ﻿<!-- NAV_TOP_START -->
-[Previous](../04_타입변환/strconv.md) | [Index](../../00-index.md) | [Next](../06_함수기초/README.md)
+[Previous](../04_타입변환/strconv.md) | [Index](../../00-index.md) | [Next](shadowing.md)
 <!-- NAV_TOP_END -->
 
 # 05. 제어문과 스코프
@@ -49,6 +49,6 @@ func main() {
 - [ ] 제어문 테스트를 2개 이상 작성했다.
 
 <!-- NAV_BOTTOM_START -->
-[Previous](../04_타입변환/strconv.md) | [Index](../../00-index.md) | [Next](../06_함수기초/README.md)
+[Previous](../04_타입변환/strconv.md) | [Index](../../00-index.md) | [Next](shadowing.md)
 <!-- NAV_BOTTOM_END -->
 

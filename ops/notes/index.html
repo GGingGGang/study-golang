@@ -4,22 +4,30 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Study Golang Notes</title>
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./style.css?v=20260303-2" />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/highlight.js@11.11.1/styles/github.min.css"
     />
     <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/highlight.js@11.11.1/lib/common.min.js"></script>
-    <script defer src="./app.js"></script>
+    <script defer src="./app.js?v=20260303-2"></script>
   </head>
   <body>
     <header class="topbar">
       <span class="topbar-label">Current</span>
       <code id="current-path">loading...</code>
     </header>
-    <main id="content" class="content">
-      <p class="state">Loading markdown...</p>
-    </main>
+    <div class="page">
+      <aside class="tree-panel">
+        <div class="tree-header">Tree</div>
+        <nav id="tree" class="tree">
+          <p class="state">Loading tree...</p>
+        </nav>
+      </aside>
+      <main id="content" class="content">
+        <p class="state">Loading markdown...</p>
+      </main>
+    </div>
   </body>
 </html>

@@ -1,5 +1,5 @@
 ﻿<!-- NAV_TOP_START -->
-[Previous](../05_제어문스코프/README.md) | [Index](../../00-index.md) | [Next](../07_포인터값/README.md)
+[Previous](../05_제어문스코프/shadowing.md) | [Index](../../00-index.md) | [Next](defer.md)
 <!-- NAV_TOP_END -->
 
 # 06. 함수 기초
@@ -15,6 +15,10 @@
 - 다중 반환: 값 + error
 - `defer`로 자원 정리
 - 클로저 상태 캡처
+
+## 상세 문서
+- [06.1 defer 상세 정리](defer.md)
+- [06.2 클로저 상세 정리](closure.md)
 
 ## 예제 코드
 ```go
@@ -56,6 +60,6 @@ func main() {
 - [ ] 클로저 캡처 동작을 설명할 수 있다.
 
 <!-- NAV_BOTTOM_START -->
-[Previous](../05_제어문스코프/README.md) | [Index](../../00-index.md) | [Next](../07_포인터값/README.md)
+[Previous](../05_제어문스코프/shadowing.md) | [Index](../../00-index.md) | [Next](defer.md)
 <!-- NAV_BOTTOM_END -->
 
