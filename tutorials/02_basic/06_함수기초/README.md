@@ -1,5 +1,5 @@
 ﻿<!-- NAV_TOP_START -->
-[Previous](../05_제어문스코프/shadowing.md) | [Index](../../00-index.md) | [Next](defer.md)
+[Previous](../05_제어문스코프/shadowing.md) | [Index](../../00-index.md) | [Next](function.md)
 <!-- NAV_TOP_END -->
 
 # 06. 함수 기초
@@ -17,6 +17,7 @@
 - 클로저 상태 캡처
 
 ## 상세 문서
+- [06.0 함수 선언 형태 정리](function.md)
 - [06.1 defer 상세 정리](defer.md)
 - [06.2 클로저 상세 정리](closure.md)
 
@@ -60,6 +61,6 @@ func main() {
 - [ ] 클로저 캡처 동작을 설명할 수 있다.
 
 <!-- NAV_BOTTOM_START -->
-[Previous](../05_제어문스코프/shadowing.md) | [Index](../../00-index.md) | [Next](defer.md)
+[Previous](../05_제어문스코프/shadowing.md) | [Index](../../00-index.md) | [Next](function.md)
 <!-- NAV_BOTTOM_END -->
 

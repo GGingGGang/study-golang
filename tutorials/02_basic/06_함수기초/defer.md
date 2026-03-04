@@ -1,5 +1,5 @@
 <!-- NAV_TOP_START -->
-[Previous](README.md) | [Index](../../00-index.md) | [Next](closure.md)
+[Previous](function.md) | [Index](../../00-index.md) | [Next](closure.md)
 <!-- NAV_TOP_END -->
 
 # 06.1 defer 상세 정리
@@ -217,5 +217,5 @@ defer func() {
 - 루프 안 누적 defer, 과도한 named return 수정은 주의한다.
 
 <!-- NAV_BOTTOM_START -->
-[Previous](README.md) | [Index](../../00-index.md) | [Next](closure.md)
+[Previous](function.md) | [Index](../../00-index.md) | [Next](closure.md)
 <!-- NAV_BOTTOM_END -->
